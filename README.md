@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Fullstack developer from Ulaanbaatar Mongolia 🇲🇳
 </h2>
 
-<p align="right"> <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="panda-desu" /> </p>
+<p align="left"> <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="panda-desu" /> </p>
 
 - 🔭 I’m currently working in **Metacog**
 

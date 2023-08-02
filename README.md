@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in **Metacog**
 
-- 🌱 I’m currently learning **python, prisma**
+- 🌱 I’m currently learning **python, prisma, Go**
 
 - 📫 How to reach me **sederdene35@gmail.com**
 
